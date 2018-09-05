@@ -7,4 +7,4 @@ let randomNumber = Math.round(Math.random() * 20);
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID = randomInteger
+let randomUserID = randomInteger + newID
